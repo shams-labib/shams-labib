@@ -1,40 +1,41 @@
-# 👋 Hey there, I'm Shams Al Labib  
-
 💻 I'm a **CST student** learning **Web Development**  
 🚀 Currently exploring **HTML, CSS, JavaScript, and React**  
 🎯 Goal: Become a **Full-Stack Developer**
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shamsallabib)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shams-al-labib-5475b1387/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamsallabib@gmail.com)
 
 ---
 
-### 🧠 Tech Stack
+### 🧠 Tech Stack:
 - HTML | CSS | JavaScript  
 - React | Tailwind CSS  
 - Node.js | Express | MongoDB *(learning soon 👀)*
 
 ---
 
-### ⚡ Fun fact
+### ⚡ Fun fact:
 I love coding late at night with good music 🎧  
 and breaking things just to fix them again 😜  
 
 ---
 
 ## 🧮 GitHub Contribution Graph
+
 [![Labib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shams-labib&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 📊 Current Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=shams-labib&theme=react-dark&hide_border=true&border_radius=8)
-![Labib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shams-labib&show_icons=true&theme=react-dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shams-labib&layout=compact&theme=react-dark&hide_border=true)
+---
+
+## 📊 Current Stats:
+![GitHub Streak](https://streak-stats.demolab.com?user=shams-labib&theme=radical&hide_border=true&border_radius=8)
+![Labib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shams-labib&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shams-labib&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -62,7 +63,7 @@ and breaking things just to fix them again 😜
 
 ---
 
-## 🧩 About Me
+### 🧩 About Me
 - 🔭 Currently improving **frontend & backend skills**  
 - 🌱 Learning **React.js**, **Tailwind CSS**, and **Express.js**  
 - 👯 Open to collaborate on **interesting web projects**  
@@ -72,5 +73,10 @@ and breaking things just to fix them again 😜
 ---
 
 <!--
-**shams-labib/shams-labib** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shams-labib/shams-labib** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
+
+
+
+
+"
