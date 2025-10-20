@@ -74,3 +74,18 @@ and breaking things just to fix them again 😜
 <!--
 **shams-labib/shams-labib** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+
+
+## 🧮 GitHub Contribution Graph
+
+[![Labib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shams-labib&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🧠 Contribution Overview
+
+![GitHub Metrics](https://github-readme-streak-stats.herokuapp.com/?user=shams-labib&theme=react&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shams-labib&show_icons=true&theme=react&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shams-labib&layout=compact&theme=react&hide_border=true)
+
