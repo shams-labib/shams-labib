@@ -39,6 +39,11 @@ and breaking things just to fix them again 😜
 
 ---
 
+### 🪄 “DO SOMETHING GREAT”
+![Motivation](https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=800&q=80)
+
+---
+
 ## 🧰 Technologies
 <div align="center">
 
