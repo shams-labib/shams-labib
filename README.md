@@ -26,8 +26,11 @@ and breaking things just to fix them again 😜
 
 ---
 
-## 🪄 “DO SOMETHING GREAT”
-![Motivation](https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1000&q=80)
+## 🧮 GitHub Contribution Graph
+
+[![Labib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shams-labib&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 ---
 
@@ -77,15 +80,4 @@ and breaking things just to fix them again 😜
 
 
 
-## 🧮 GitHub Contribution Graph
-
-[![Labib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shams-labib&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🧠 Contribution Overview
-
-![GitHub Metrics](https://github-readme-streak-stats.herokuapp.com/?user=shams-labib&theme=react&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shams-labib&show_icons=true&theme=react&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shams-labib&layout=compact&theme=react&hide_border=true)
 
