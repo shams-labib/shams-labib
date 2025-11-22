@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shamsallabib&style=for-the-badge" />
-</p>
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
