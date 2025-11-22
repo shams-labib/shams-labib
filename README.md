@@ -224,48 +224,49 @@ My goal is to grow as a full-stack developer while building meaningful digital p
 
 
 <h1 align="center">🔥 TOP PROJECTS 🔥</h1>
+
 ---
 
-<p align="center">Beautifully crafted showcase of your best work</p>
+<p align="center">Your best and most polished projects showcase</p>
 
 <br/>
 
+<!-- Project 1 -->
 <p align="center">
-  <!-- Project 1 -->
-  <a href="https://github.com/alaminislam3203/EcoTrack-Client-Web">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alaminislam3203&repo=EcoTrack-Client-Web&theme=tokyonight&border_radius=20" />
+  <a href="https://github.com/shams-labib/A-10-Client">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shams-labib&repo=A-10-Client&theme=tokyonight&border_radius=20" />
   </a>
 </p>
-
 <p align="center">
-  <b>EcoTrack Client Web</b> – A modern eco-tracking web platform focusing on sustainability.
-</p>
-
-<br/>
-
-<p align="center">
-  <!-- Project 2 -->
-  <a href="https://github.com/alaminislam3203/WarmPaws-Pet-Care-in-Winter">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alaminislam3203&repo=WarmPaws-Pet-Care-in-Winter&theme=tokyonight&border_radius=20" />
-  </a>
-</p>
-
-<p align="center">
-  <b>WarmPaws</b> – A helpful winter-care solution for pets with tips & emergency support.
+  <b>A-10 Client</b> – A modern and responsive full-featured web application built with React, Tailwind & Firebase.
 </p>
 
 <br/>
 
+<!-- Project 2 -->
 <p align="center">
-  <!-- Project 3 -->
-  <a href="https://github.com/alaminislam3203/Green-Earth-Web">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alaminislam3203&repo=Green-Earth-Web&theme=tokyonight&border_radius=20" />
+  <a href="https://github.com/shams-labib/A9-public">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shams-labib&repo=A9-public&theme=tokyonight&border_radius=20" />
   </a>
 </p>
-
 <p align="center">
-  <b>Green Earth Web</b> – Eco-friendly awareness platform promoting a greener future.
+  <b>A9 Public</b> – A clean and functional JavaScript/React based project with modern UI/UX.
 </p>
+
+<br/>
+
+<!-- Project 3 -->
+<p align="center">
+  <a href="https://github.com/shams-labib/Assingment-8-Hero-Books">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shams-labib&repo=Assingment-8-Hero-Books&theme=tokyonight&border_radius=20" />
+  </a>
+</p>
+<p align="center">
+  <b>Hero Books</b> – A React + Tailwind project focused on book listing, UI management & interactive features.
+</p>
+
+---
+
 
 ---
 
