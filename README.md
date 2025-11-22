@@ -137,28 +137,46 @@ I love learning every day, solving problems, and turning ideas into beautiful, f
 
 <h1 align="center">🔥 Top Projects</h1>
 
-<p align="center">Showcasing my best and polished work.</p>
+<p align="center">Here are some of my most polished and exciting projects. Dive in! 🚀</p>
 
+<br/>
 
-<p align="center">
-  <a href="https://github.com/shams-labib/A-10-Client">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shams-labib&repo=A-10-Client&theme=tokyonight&border_radius=20">
+<div align="center">
+
+<!-- Project 1 -->
+<div align="center" style="margin-bottom: 30px;">
+  <a href="https://github.com/shams-labib/A-10-Client" target="_blank">
+    <img width="350" style="border-radius: 15px;" src="https://github-readme-stats.vercel.app/api/pin/?username=shams-labib&repo=A-10-Client&theme=tokyonight&border_radius=20" />
   </a>
-</p>
+  <p align="center">
+    <b>A-10 Client</b> – A responsive full-featured web app built with React, Tailwind & Firebase. Perfect for modern web experiences.
+  </p>
+</div>
 
-
-<p align="center">
-  <a href="https://github.com/shams-labib/A9-public">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shams-labib&repo=A9-public&theme=tokyonight&border_radius=20">
+<!-- Project 2 -->
+<div align="center" style="margin-bottom: 30px;">
+  <a href="https://github.com/shams-labib/A9-public" target="_blank">
+    <img width="350" style="border-radius: 15px;" src="https://github-readme-stats.vercel.app/api/pin/?username=shams-labib&repo=A9-public&theme=tokyonight&border_radius=20" />
   </a>
-</p>
+  <p align="center">
+    <b>A9 Public</b> – A clean React project with modern UI/UX, fully interactive and user-friendly.
+  </p>
+</div>
 
-
-<p align="center">
-  <a href="https://github.com/shams-labib/Assingment-8-Hero-Books">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shams-labib&repo=Assingment-8-Hero-Books&theme=tokyonight&border_radius=20">
+<!-- Project 3 -->
+<div align="center" style="margin-bottom: 30px;">
+  <a href="https://github.com/shams-labib/Assingment-8-Hero-Books" target="_blank">
+    <img width="350" style="border-radius: 15px;" src="https://github-readme-stats.vercel.app/api/pin/?username=shams-labib&repo=Assingment-8-Hero-Books&theme=tokyonight&border_radius=20" />
   </a>
-</p>
+  <p align="center">
+    <b>Hero Books</b> – A React + Tailwind project focused on interactive book listings & UI management.
+  </p>
+</div>
+
+</div>
+
+---
+
 
 ---
 
