@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=shamsallabib&style=for-the-badge)
 
-<img align="right" alt="Coding" width="400" src="images/github banner.png"/>
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
