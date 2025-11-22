@@ -105,26 +105,37 @@ I love learning every day, solving problems, and turning ideas into beautiful, f
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shams-labib&theme=transparent&hide_border=true&layout=compact" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shams-labib&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=shams-labib&theme=transparent&hide_border=true&show_icons=true" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=shams-labib&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" />
     </td>
   </tr>
 </table>
 
 </div>
 
----
+<br/>
 
 <h1 align="center">📈 Contribution Graph</h1>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shams-labib&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area=true&theme=react-dark" width="98%">
-</p>
+<div align="center">
+  <img 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=shams-labib&custom_title=🔥%20Contribution%20Activity%20Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area_color=00D9FF&area=true&theme=react-dark" 
+       alt="Contribution Graph"
+       width="98%"
+  />
+</div>
 
----
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</div>
+
+
+
 
 <h1 align="center">🔥 Top Projects</h1>
 
