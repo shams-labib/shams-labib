@@ -20,20 +20,21 @@
 <h2 align="center">🌐 Social & Contact</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alaminislam3203/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://app.daily.dev/alamin_codes"><img src="https://img.shields.io/badge/-DailyDev-000000?style=flat&logo=daily.dev&logoColor=white"/></a>
-  <a href="https://sites.google.com/view/ncsworld/home"><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="https://x.com/alamin_codes"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
-  <a href="https://hashnode.com/@alamincodes"><img src="https://img.shields.io/badge/-Hashnode-2962FF?style=flat&logo=Hashnode&logoColor=white"/></a>
-  <a href="mailto:alaminislam3203@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/alamin_codes"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.tiktok.com/@alamin_chowdhury_102"><img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=TikTok&logoColor=white"/></a>
-  <a href="https://youtube.com/@no_copyright_sound_world"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/></a>
-  <a href="https://www.threads.net/@alamin_codes"><img src="https://img.shields.io/badge/-Threads-000000?style=flat&logo=Threads&logoColor=white"/></a>
-  <a href="https://wa.me/+8801313334279"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white"/></a>
-  <a href="https://pin.it/3VPfzMYAB"><img src="https://img.shields.io/badge/-Pinterest-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-  <a href="https://discord.com/users/alamin_codes"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-DailyDev-000000?style=flat&logo=daily.dev&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Hashnode-2962FF?style=flat&logo=Hashnode&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=TikTok&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Threads-000000?style=flat&logo=Threads&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Pinterest-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
 </p>
+
 
 ---
 
