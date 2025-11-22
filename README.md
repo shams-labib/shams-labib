@@ -1,50 +1,21 @@
 
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Shams+Al+Labib;Full+Stack+Developer;Building+Cool+Things+😉;Making+The+Web+Look+Good+😎;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Shams+Al+Labib;Full+Stack+Developer;Building+Cool+Things+😉;Making+The+Web+Look+Good+😎;Let's+Code+Together!&center=true&size=30">
   </a>
 </h1>
 
-
----
-
-## <h1 align="center">🌟 About Me</h1>
-
 <div align="center">
-
-Hi! I'm **Shams Al Labib**, a passionate **Front-End Web Developer** and **CST 5th Semester (BTEB)** student.  
-I specialize in building fast, responsive, and modern web applications using today’s most powerful technologies.
-
-I love transforming ideas into real-world digital products by focusing on clean code, user-friendly design, and strong performance optimization.
-
-### 🚀 What I Do
-- Develop full-stack web applications using **MongoDB, Express.js, Node.js & Firebase**
-- Build dynamic user interfaces with **React (JSX)**
-- Create smooth & responsive designs using **Tailwind CSS**
-- Write clean, optimized, and reusable **JavaScript** code
-- Integrate secure authentication systems with **Firebase Auth**
-- Design scalable backend APIs using **Express & Node.js**
-
-### 🛠️ Tech I Work With
-**Frontend:** HTML, JSX, React, Tailwind CSS, JavaScript  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**Authentication:** Firebase  
-**Tools:** Git, GitHub, VS Code, Postman  
-
-### 🎯 My Goals
-- Grow as a **Full-Stack Developer (MERN)**
-- Build high-quality real-world applications  
-- Learn advanced backend & cloud technologies  
-- Collaborate on meaningful open-source projects  
-
-I love learning every day, solving problems, and turning ideas into beautiful, functional web experiences.
-
-
+  <p>💻 Passionate about creating modern, responsive, and interactive web applications.</p>
+  <p>🚀 I love turning ideas into reality with **React, Node.js, MongoDB, Firebase, and Tailwind CSS**.</p>
+  <p>🎨 Crafting smooth UI/UX while writing clean, maintainable code.</p>
+  <p>🤝 Always open to collaboration and building meaningful projects.</p>
 </div>
 
----
+
+
+
+
 
 <h2 align="center">🌐 Social & Contact</h2>
 
