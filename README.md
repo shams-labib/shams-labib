@@ -15,8 +15,6 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
-
 Hi! I'm **Shams Al Labib**, a passionate **Front-End Web Developer** and **CST 5th Semester (BTEB)** student.  
 I specialize in building fast, responsive, and modern web applications using today’s most powerful technologies.
 
@@ -141,21 +139,21 @@ I love learning every day, solving problems, and turning ideas into beautiful, f
 
 <p align="center">Showcasing my best and polished work.</p>
 
-### 🚀 Project 1  
+
 <p align="center">
   <a href="https://github.com/shams-labib/A-10-Client">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shams-labib&repo=A-10-Client&theme=tokyonight&border_radius=20">
   </a>
 </p>
 
-### 🚀 Project 2  
+
 <p align="center">
   <a href="https://github.com/shams-labib/A9-public">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shams-labib&repo=A9-public&theme=tokyonight&border_radius=20">
   </a>
 </p>
 
-### 🚀 Project 3  
+
 <p align="center">
   <a href="https://github.com/shams-labib/Assingment-8-Hero-Books">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shams-labib&repo=Assingment-8-Hero-Books&theme=tokyonight&border_radius=20">
