@@ -33,53 +33,33 @@
 
 ---
 
-<h1 align="center">🛠️ TECHNOLOGY STACK</h1>
+## <h2 align="center">💻 Technologies</h2>
+
+<br>
 
 <div align="center">
-
-### 🚩 Languages  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,graphql,py" />
-
-### 🎨 CSS Frameworks  
-<img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" />
-
-### ⚛️ JS Frameworks  
-<img src="https://skillicons.dev/icons?i=react,next,redux,nodejs,express" />
-
-### 🗄️ Databases  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" />
-
-### 🚀 Deployment  
-<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
-
-### 🎨 Design  
-<img src="https://skillicons.dev/icons?i=figma,ai,ps" />
-
-### 🔧 Tools  
-<img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" />
-
-</div>
-
----
-
-<h1 align="center">📊 GitHub Stats</h1>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shams-labib&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=shams-labib&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" />
-    </td>
-  </tr>
-</table>
-
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </div>
 
 <br/>
+
 
 <h1 align="center">📈 Contribution Graph</h1>
 
