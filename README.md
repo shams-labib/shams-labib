@@ -98,45 +98,6 @@
 
 
 
-<h1 align="center">🔥 Top Projects</h1>
-
-<p align="center">Here are some of my most polished and exciting projects. Dive in! 🚀</p>
-
-<br/>
-
-<div align="center">
-
-<!-- Project 1 -->
-<div align="center" style="margin-bottom: 30px;">
-  <a href="https://github.com/shams-labib/A-10-Client" target="_blank">
-    <img width="350" style="border-radius: 15px;" src="https://github-readme-stats.vercel.app/api/pin/?username=shams-labib&repo=A-10-Client&theme=tokyonight&border_radius=20" />
-  </a>
-  <p align="center">
-    <b>A-10 Client</b> – A responsive full-featured web app built with React, Tailwind & Firebase. Perfect for modern web experiences.
-  </p>
-</div>
-
-<!-- Project 2 -->
-<div align="center" style="margin-bottom: 30px;">
-  <a href="https://github.com/shams-labib/A9-public" target="_blank">
-    <img width="350" style="border-radius: 15px;" src="https://github-readme-stats.vercel.app/api/pin/?username=shams-labib&repo=A9-public&theme=tokyonight&border_radius=20" />
-  </a>
-  <p align="center">
-    <b>A9 Public</b> – A clean React project with modern UI/UX, fully interactive and user-friendly.
-  </p>
-</div>
-
-<!-- Project 3 -->
-<div align="center" style="margin-bottom: 30px;">
-  <a href="https://github.com/shams-labib/Assingment-8-Hero-Books" target="_blank">
-    <img width="350" style="border-radius: 15px;" src="https://github-readme-stats.vercel.app/api/pin/?username=shams-labib&repo=Assingment-8-Hero-Books&theme=tokyonight&border_radius=20" />
-  </a>
-  <p align="center">
-    <b>Hero Books</b> – A React + Tailwind project focused on interactive book listings & UI management.
-  </p>
-</div>
-
-</div>
 
 ---
 
