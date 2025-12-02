@@ -14,11 +14,21 @@
 </h1>
 
 <div align="center">
-  <p>💻 Passionate about creating modern, responsive, and interactive web applications.</p>
-  <p>🚀 I love turning ideas into reality with **React, Node.js, MongoDB, Firebase, and Tailwind CSS**.</p>
-  <p>🎨 Crafting smooth UI/UX while writing clean, maintainable code.</p>
-  <p>🤝 Always open to collaboration and building meaningful projects.</p>
+  <img width="70%" alt="Github Banner" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </div>
+
+<div align="center">
+  <h2>
+    About Me  
+    <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif" width="40px" height="40px">
+  </h2>
+
+  <p>💻 I enjoy building modern, clean, and responsive web applications.</p>
+  <p>🚀 I work mainly with <b>React, Node.js, MongoDB, Firebase, and Tailwind CSS</b> to bring ideas to life.</p>
+  <p>🎨 I love creating smooth user experiences with simple and clean UI.</p>
+  <p>🤝 I’m always interested in learning new technologies and collaborating on exciting projects.</p>
+</div>
+
 
 
 
