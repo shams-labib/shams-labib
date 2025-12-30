@@ -82,17 +82,21 @@
 <br/>
 <div align="center">
 
-## 
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="32"> &nbsp;
-<img src="https://img.icons8.com/color/48/000000/analytics.png" width="32"> &nbsp;
-<img src="https://img.icons8.com/fluency/48/000000/github.png" width="32"> 
-GitHub Analytics
+## <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="32"> GitHub Stats & Contribution
+
+<!-- Contribution Badges -->
+<img src="https://img.shields.io/github/commit-activity/m/shams-labib?style=for-the-badge&color=blue" alt="Contributions"/>
+<img src="https://img.shields.io/github/languages/top/shams-labib?style=for-the-badge&color=yellow" alt="Top Language"/>
+<img src="https://img.shields.io/github/stars/shams-labib?style=for-the-badge&color=orange" alt="Stars"/>
+<img src="https://img.shields.io/github/forks/shams-labib?style=for-the-badge&color=green" alt="Forks"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=shams-labib&theme=radical&hide_border=true" alt="GitHub Streak" />
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com/?user=shams-labib&theme=radical&hide_border=true" alt="GitHub Streak" width="70%"/>
 
 </div>
+
 
 
 
