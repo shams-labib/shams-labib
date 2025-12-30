@@ -1,7 +1,6 @@
 
 <div align="center">
  
- 
 <img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
 </div>
 
@@ -81,6 +80,22 @@
 </div>
 
 <br/>
+<div align="center">
+
+## 
+<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="32"> &nbsp;
+<img src="https://img.icons8.com/color/48/000000/analytics.png" width="32"> &nbsp;
+<img src="https://img.icons8.com/fluency/48/000000/github.png" width="32"> 
+GitHub Analytics
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=shams-labib&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+
+
 
 
 <h1 align="center">📈 Contribution Graph</h1>
