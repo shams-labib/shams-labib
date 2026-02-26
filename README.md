@@ -21,11 +21,11 @@
     <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif" width="40px" height="40px">
   </h2>
 
-  <p>💻 I enjoy building modern, clean, and responsive web applications.</p>
-  <p>🚀 I work mainly with <b>React, Node.js, MongoDB, Firebase, and Tailwind CSS</b> to bring ideas to life.</p>
-  <p>🎨 I love creating smooth user experiences with simple and clean UI.</p>
-  <p>🤝 I’m always interested in learning new technologies and collaborating on exciting projects.</p>
-  💻 Frontend Developer  
+  <p>I enjoy building modern, clean, and responsive web applications.</p>
+  <p>I work mainly with <b>React, Node.js, MongoDB, Firebase, and Tailwind CSS</b> to bring ideas to life.</p>
+  <p>I love creating smooth user experiences with simple and clean UI.</p>
+  <p>I’m always interested in learning new technologies and collaborating on exciting projects.</p>
+   Frontend Developer  
 📱 0178478887  
 ✉️ shamsallabib@gmail.com  
 🌐 Open to Collaboration & Projects
