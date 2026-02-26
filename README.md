@@ -26,7 +26,7 @@
   <p>I love creating smooth user experiences with simple and clean UI.</p>
   <p>I’m always interested in learning new technologies and collaborating on exciting projects.</p>
    Frontend Developer  
-📱 0178478887  
+📱 +880178478887  
 ✉️ shamsallabib@gmail.com  
 🌐 Open to Collaboration & Projects
 
