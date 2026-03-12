@@ -61,10 +61,10 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/shams-al-labib-5475b1387"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/shams-al-labib"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shamsallabib@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://app.daily.dev/shamsallabib"><img src="https://img.shields.io/badge/Daily.dev-000000?style=for-the-badge&logo=daily.dev&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-47CCCC?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://shamsallabib.vercel.app"><img src="https://img.shields.io/badge/Portfolio-47CCCC?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 <br/>
